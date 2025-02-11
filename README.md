@@ -41,7 +41,7 @@ To successfully run the code, all items must be accessible to Matlab at the time
 
 
 # Citation
-The study was published in the proceedings of the ISPRS 6th Joint International Conference on Deformation Monitoring (JICDM), where the mathematical formulations are explained in more detail. You may cite the study using the following information:
+The study is expected to be published in the proceedings of the ISPRS 6th Joint International Conference on Deformation Monitoring (JICDM), where the mathematical formulations are explained in more detail. You may cite the study using the following information:
 
 Maalek, R. 2025. Digital Twin Model Calibration of Structural Systems under Visible Deformation: Recovering the Joint Fixity of a Steel Cantilever Spaceframe Structure Experiencing Static Displacement using Laser Scanning, Proceedings of the ISPRS 6th Joint International Conference on Deformation Monitoring (JICDM), Karlsruhe, Germany, April 2025.
 
