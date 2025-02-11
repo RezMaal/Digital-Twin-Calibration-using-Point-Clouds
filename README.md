@@ -12,7 +12,7 @@ The following image shows the case study used for validation of the methodology.
 
 # Algorithm and Optimization Schematics
 
-The code employs a metaheuristic AI-based algorithm to recover the joint fixity factors of vertical elements in the logitudinal direction as well as the loading coefficients to account for load case uncertainty. The AI-based algorithm aims to find the decision variables that minimize the difference between the measured (from laser scanner) and predicted (from FEM simulation) of the vertical displacements for all nodes, while incorporating the uncertainty in the estimated real-world nodal coordinates. The following image shows the process of employing the AI-based optimization to maximize agreement between the DT and reality (the image of the left shows the real vertical displacement with 10x magnification for clarity).
+The code employs a metaheuristic AI-based algorithm to recover the joint fixity factors of vertical elements in the logitudinal direction as well as the loading coefficients to account for load case uncertainty. The AI-based algorithm aims to find the decision variables that minimize the difference between the measured (from laser scanner) and predicted (from FEM simulation) of the vertical displacements for all nodes, while incorporating the uncertainty in the estimated real-world nodal coordinates. The following image shows the process of employing the AI-based optimization to maximize agreement between the DT and reality (the image on the left shows the real vertical displacement with 10x magnification for clarity).
 
 
 <img width="710" alt="image" src="https://github.com/user-attachments/assets/067db487-ed1c-4a7e-89ab-6ff2da7ff2f7" />
@@ -32,7 +32,9 @@ The code provides the user with the opportunity to perform the optimization usin
 As part of this Repository, three folders are privided:
 
 1- Inputs, which includes the required input data, such as real and FEM displacements.
-2- Dependent Functions, which includes the new functions are called in the main script.
+
+2- Dependent Functions, which includes the new functions called in the main script.
+
 3- Demonstration, which includes the main script along with the code for the general plotting.
 
 To successfully run the code, all items must be accessible to Matlab at the time of execution.
