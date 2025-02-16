@@ -41,9 +41,9 @@ To successfully run the code, all items must be accessible to Matlab at the time
 
 
 # Citation
-The study under review at the Development in the Built Environment journal, where the mathematical formulations are explained in more detail. You may cite the study using the following information:
+The study is under review at the Journal of Constructional Steel Research, where the mathematical formulations are explained in more detail. You may cite the study using the following information:
 
-Maalek, R. 2025. Digital Twin Model Calibration of Structural Systems under Visible Deformation: Recovering the Joint Fixity of a Steel Cantilever Spaceframe Structure Experiencing Static Displacement using Laser Scanning, Developments in the Built Environment, under review.
+Maalek, R. 2025. Digital Twin Model Calibration of Structural Systems under Static Displacement using Laser Scanning, Journal of Constructional Steel Research, under review.
 
 # Acknowledgements
 The author wishes to acknowledge the generous endowment provided by GOLDBECK GmbH to the Karlsruhe Institute of Technology (KIT) for the establishment of the Professorship in Digital Engineering and Construction at the Institute of Technology and Management in Construction (TMB).
